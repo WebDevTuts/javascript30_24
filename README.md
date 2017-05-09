@@ -4,5 +4,10 @@ In this tutorial, we learn to create a sticky navigation. We have a static navig
 
 [View demo site here.](https://webdevtuts.github.io/javascript30_24/)
 
-![Preview](screenshot.png)
+Webpage state on page load
 
+![Initial state](screenshot01.png)
+
+Navigation bar become fixed position when scroll down towards content section
+
+![Fixed position](screenshot02.png)
